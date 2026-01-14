@@ -81,3 +81,15 @@ This chart segments customer accounts into:
 + Low profit / Low growth
 
 It supports strategic decisions such as account priotitization and targeted sales actions.
+
+## PowerBI Dashboard Creation：
+
+The dashboard is created using PowerBI. It leverages various data sources to provide real-time insights into your business's sales performance.
+
+## How to Use:
+
+1. **Accessing the Dashboard**: Click on the provded dashboard link to access the End-to-End Sales Performance Analytic Dashboard, or clone the repo.
+2. **Navigation**: Navigate through different sections using the interactive features such as filters, slicers, and drill-down options.
+3. **Interacting with Data**: Hover over data points to view detailed information. Use filters to customize the view based on specific metrics, time periods, or countries/accounts.
+4. **Analyzing Trends**: Identify trends, patterns, and outliers to make informed decisions. Compare KPIs across different segments and time frames.
+5. **Actionable Insights**: Use the insights gained from the dashboard to find out growth enabler, optimize strategies, allocate resources effectively, and drive profitability.
