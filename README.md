@@ -1,16 +1,17 @@
 # End-to-End Sales Performance Analysis Dashborad
 
-### Dashboard Link:
+## Dashboard Link:
 
 XXX
+
 ## Purpose & Description
 
-### Purpose:
+#### Purpose:
 
 This dashboard is designed to provide a comprehensive view of a Plant's sales and quantity performance across time, geography, and customer accounts.
 It enables business users to monitor **Year-to-Date(YTD) performance**, compare it with **Prior Year-to-Date(PYTD)**, and analyze profitability trends by product, country, and account.
 
-### Description:
+#### Description:
 
 The dashboard integrates transactional sales date, customer account information, and product hierarchy data to support both **operational monitoring** and **strategic performance analysis**.
 
@@ -21,6 +22,7 @@ Key business questions addressed include：
 + Which custmers fall into high/low profitability segments?
 
 Interactive slicers allow users to dynamically switch between **Sales, Quantity**, and **Gross Profit**, making the dashboard adaptable for differernt analytical perspectives.
+
 
 ## Key Metrics Definition:
 
@@ -37,8 +39,9 @@ Interactive slicers allow users to dynamically switch between **Sales, Quantity*
       
     ``` GP% = Gross Profit / Sales ```
 
+
 ## Visuals Explanation
-### 1. Slicer - Year & Business Metric
+#### 1. Slicer - Year & Business Metric
    + **Year Slicer** allows selection between 2023 and 2024.
    + **Business metric slicer** enables dynamic switching between:
      + Sales
@@ -47,7 +50,7 @@ Interactive slicers allow users to dynamically switch between **Sales, Quantity*
 
 All visuals and KPIs respond consistentlly to slicer selections.
 
-### 2. KPI Cards
+#### 2. KPI Cards
 Cards display:
 + YTD
 + PYTD
@@ -56,23 +59,23 @@ Cards display:
 
 These provide an at-a-glance summary of overall business performance.
 
-### 3. Filled Map - Bottom 10 Countries
-**Bottom 10 YTD vs. PYTD by Country**
+#### 3. Filled Map - Bottom 10 Countries
+##### **Bottom 10 YTD vs. PYTD by Country**
 
 This visualization highlights underperforming countries based on YTD vs. PYTD comparison, helping identify geographic areas requiring attention.
 
-### 4. Waterfall Chart - Monthly Gross Profit Change
-**Gross Profit YTD vs. PYTD | Month - Country**
+#### 4. Waterfall Chart - Monthly Gross Profit Change
+##### **Gross Profit YTD vs. PYTD | Month - Country**
 
 The waterfall chart explains how monthly changes contribute to the overall difference between YTD and PYTD, making performace drivers transparent.
 
-### 5. Line & Stacked Column Chart
-**Gross Profit YTD & PYTD | Month**
+#### 5. Line & Stacked Column Chart
+##### **Gross Profit YTD & PYTD | Month**
 
 This chart clearly shows trend differences and seasonality effects between current and prior years.
 
-### 6. Scatter Chart - Account Profitability Segmentation
-**GP% vs. Gross Profit by Account**
+#### 6. Scatter Chart - Account Profitability Segmentation
+##### **GP% vs. Gross Profit by Account**
 
 This chart segments customer accounts into:
 + High profit / High growth
@@ -82,9 +85,11 @@ This chart segments customer accounts into:
 
 It supports strategic decisions such as account priotitization and targeted sales actions.
 
+
 ## PowerBI Dashboard Creation：
 
 The dashboard is created using PowerBI. It leverages various data sources to provide real-time insights into your business's sales performance.
+
 
 ## How to Use:
 
