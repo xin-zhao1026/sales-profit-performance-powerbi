@@ -40,3 +40,44 @@ Interactive slicers allow users to dynamically switch between **Sales, Quantity*
 ## Visuals Explanation
 ### 1. Slicer - Year & Business Metric
    + **Year Slicer** allows selection between 2023 and 2024.
+   + **Business metric slicer** enables dynamic switching between:
+     + Sales
+     + Quantity
+     + Gross Profit
+
+All visuals and KPIs respond consistentlly to slicer selections.
+
+### 2. KPI Cards
+Cards display:
++ YTD
++ PYTD
++ YTD vs. PYTD
++ GP%
+
+These provide an at-a-glance summary of overall business performance.
+
+### 3. Filled Map - Bottom 10 Countries
+**Bottom 10 YTD vs. PYTD by Country**
+
+This visualization highlights underperforming countries based on YTD vs. PYTD comparison, helping identify geographic areas requiring attention.
+
+### 4. Waterfall Chart - Monthly Gross Profit Change
+**Gross Profit YTD vs. PYTD | Month - Country**
+
+The waterfall chart explains how monthly changes contribute to the overall difference between YTD and PYTD, making performace drivers transparent.
+
+### 5. Line & Stacked Column Chart
+**Gross Profit YTD & PYTD | Month**
+
+This chart clearly shows trend differences and seasonality effects between current and prior years.
+
+### 6. Scatter Chart - Account Profitability Segmentation
+**GP% vs. Gross Profit by Account**
+
+This chart segments customer accounts into:
++ High profit / High growth
++ High profit / Low growth
++ Low profit / High growth
++ Low profit / Low growth
+
+It supports strategic decisions such as account priotitization and targeted sales actions.
