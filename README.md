@@ -2,7 +2,7 @@
 
 ## Dashboard Link:
 
-XXX
+[End-to-End Sales Performance Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA0YWE3MzEtODZmNi00YmJhLTk0YTEtYzY1NTg1OTJhMDkxIiwidCI6IjgyMzQxNTljLTBjYjctNDI4NC1hMDI3LTA0MWFjZjllNmQwNiIsImMiOjZ9)
 
 ## Purpose & Description
 
